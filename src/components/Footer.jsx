@@ -46,7 +46,7 @@ const Footer = () => {
           <a
             href="https://github.com/soeminkhant123"
             target="_blank"
-            className="text-[#fc444a] mx-2"
+            className="text-[#fc444a] mx-3"
           >
             Soe Min Khant
           </a>
