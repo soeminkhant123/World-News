@@ -44,7 +44,7 @@ const Footer = () => {
         <p className="text-center font-thin text-slate-500">
           &#169; Designed and Developed by
           <a
-            href="https://github.com/kidusfmariam"
+            href="https://github.com/soeminkhant123"
             target="_blank"
             className="text-[#fc444a] mx-2"
           >
